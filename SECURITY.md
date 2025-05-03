@@ -1,6 +1,6 @@
 # Security Policy
 
-If you believe you have found a security vulnerability in **QuanTrading Hub**, please report it to us asap.
+If you believe you have found a security vulnerability in **PochitaCoin**, please report it to us asap.
 The development team and community take all security issues seriously. **Please do not make public any uncovered flaws.**
 
 ## Supported Versions
@@ -9,17 +9,13 @@ Versions of the project that are currently supported by security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 4.x.x   |        [x]         |
-| 3.x.x   |        [x]         |
-| 2.x.x   |        [x]         |
-| 1.x.x   |        [x]         |
+| 1.x.x   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
 Thank you for improving the security of our code! Any assistance in removing security flaws will be acknowledged.
 
-**Please report security flaws by emailing the development team directly: <multiversefederationgames@gmail.com>**.
+**Please report security flaws by emailing the development team directly: <sseleman95@gmail.com>**.
 
 Include as much of the following information as possible to help us better understand the possible issue:
 
