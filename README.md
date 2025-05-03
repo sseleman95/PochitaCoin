@@ -1,8 +1,8 @@
-# QuanTrading Hub
+# Pochita Coin
 
-## What is QuanTrading Hub?
+## What is Pochita Coin?
 
-QuanTrading Hub is a web with several trading bots, the same complete framework that is lightweight, fast, flexible and secure.
+Pochita Coin is a fully responsive administration template. Based on Bootstrap framework and also the JavaScript plugins. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
 
 ## Repository Management
 
@@ -22,9 +22,9 @@ We welcome contributions from the community.
 
 ## Credits
 
-- 2024 [J. Martin Gutierrez Tellez](https://github.com/jmartingt95) - JMartin
-- 2024 [Daymar J. de G. Lisa](https://github.com/sseleman95) - sseleman95
+- 2025 [J. Martin Gutierrez Tellez](https://github.com/jmartingt95) - JMartin
+- 2025 [Daymar J. de G. Lisa](https://github.com/sseleman95) - sseleman95
 
 ## License
 
-QuanTrading Hub is created under the -- license.
+Pochita Coin is created under the -MIT- license.
