@@ -37,36 +37,9 @@ $RECYCLE.BIN/
 .Trash-*
 
 #-------------------------
-# Environment Files
+# Composer
 #-------------------------
-# These should never be under version control,
-# as it poses a security risk.
-.env/
-env/
-venv/
-.venv/
-__pycache__/
-
-#-------------------------
-# Temporary Files
-#-------------------------
-src/writable/cache/*
-!src/writable/cache/.gitkeep
-
-src/writable/databases/*
-!src/writable/databases/.gitkeep
-
-src/writable/debugbar/*
-!src/writable/debugbar/.gitkeep
-
-src/writable/logs/*
-!src/writable/logs/.gitkeep
-
-src/writable/session/*
-!src/writable/session/.gitkeep
-
-src/writable/templates/*
-!src/writable/templates/.gitkeep
+vendor/
 
 #-------------------------
 # IDE / Development Files
@@ -86,7 +59,7 @@ _modules/*
 nbproject/
 build/
 nbbuild/
-dist/
+#dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
@@ -115,8 +88,3 @@ nb-configuration.xml
 # Template
 #-------------------------
 templates/*
-
-#-------------------------
-# Data Base
-#-------------------------
-database/*

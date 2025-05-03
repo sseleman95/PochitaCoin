@@ -1,0 +1,489 @@
+/* ---------------- PADDING IN PX ---------------- */
+/* -------- padding -------- */
+body.mf .p-10 {
+    padding: 10px !important;
+}
+
+/* -------- padding top -------- */
+body.mf .pt-0 {
+    padding-top: 0px !important;
+}
+
+body.mf .pt-20 {
+    padding-top: 20px !important;
+}
+
+/* -------- padding left -------- */
+
+/* -------- padding right -------- */
+
+/* -------- padding bottom -------- */
+body.mf .pb-10 {
+    padding-bottom: 10px !important;
+}
+
+body.mf .pb-20 {
+    padding-bottom: 20px !important;
+}
+
+
+/* ---------------- PADDING IN REM ---------------- */
+/* -------- padding -------- */
+/* -------- padding top -------- */
+body.mf .pt-09rem {
+    padding-top: 0.9rem !important;
+}
+
+body.mf .pt-2rem {
+    padding-top: 2rem !important;
+}
+
+/* -------- padding left -------- */
+body.mf .ps-03rem {
+    padding-left: 0.3rem !important;
+}
+
+body.mf .ps-06rem {
+    padding-left: 0.6rem !important;
+}
+
+body.mf .ps-2rem {
+    padding-left: 2rem !important;
+}
+
+/* -------- padding right -------- */
+body.mf .pe-02rem {
+    padding-right: 0.2rem !important;
+}
+
+body.mf .pe-22rem {
+    padding-right: 2.2rem !important;
+}
+
+/* -------- padding bottom -------- */
+
+/* ---------------- PADDING IN % ---------------- */
+/* -------- padding -------- */
+body.mf .p-10pc {
+    padding: 100% !important;
+}
+
+body.mf .p-9pc {
+    padding: 90% !important;
+}
+
+body.mf .p-8pc {
+    padding: 80% !important;
+}
+
+body.mf .p-7pc {
+    padding: 70% !important;
+}
+
+body.mf .p-5pc {
+    padding: 50% !important;
+}
+
+body.mf .p-4pc {
+    padding: 40% !important;
+}
+
+body.mf .p-3pc {
+    padding: 30% !important;
+}
+
+body.mf .p-2pc {
+    padding: 20% !important;
+}
+
+body.mf .p-1pc {
+    padding: 10% !important;
+}
+
+body.mf .p--0pc {
+    padding: 0% !important;
+}
+
+body.mf .p--1pc {
+    padding: -10% !important;
+}
+
+body.mf .p--2pc {
+    padding: -20% !important;
+}
+
+body.mf .p--3pc {
+    padding: -30% !important;
+}
+
+body.mf .p--4pc {
+    padding: -40% !important;
+}
+
+body.mf .p--5pc {
+    padding: -50% !important;
+}
+
+body.mf .p--5pc {
+    padding: -50% !important;
+}
+
+body.mf .p--6pc {
+    padding: -60% !important;
+}
+
+body.mf .p--7pc {
+    padding: -70% !important;
+}
+
+body.mf .p--8pc {
+    padding: -80% !important;
+}
+
+body.mf .p--9pc {
+    padding: -90% !important;
+}
+
+body.mf .p--10pc {
+    padding: -100% !important;
+}
+
+/* -------- padding top -------- */
+body.mf .pt-10pc {
+    padding-top: 100% !important;
+}
+
+body.mf .pt-9pc {
+    padding-top: 90% !important;
+}
+
+body.mf .pt-8pc {
+    padding-top: 80% !important;
+}
+
+body.mf .pt-7pc {
+    padding-top: 70% !important;
+}
+
+body.mf .pt-5pc {
+    padding-top: 50% !important;
+}
+
+body.mf .pt-4pc {
+    padding-top: 40% !important;
+}
+
+body.mf .pt-3pc {
+    padding-top: 30% !important;
+}
+
+body.mf .pt-2pc {
+    padding-top: 20% !important;
+}
+
+body.mf .pt-1pc {
+    padding-top: 10% !important;
+}
+
+body.mf .pt--0pc {
+    padding-top: 0% !important;
+}
+
+body.mf .pt--1pc {
+    padding-top: -10% !important;
+}
+
+body.mf .pt--2pc {
+    padding-top: -20% !important;
+}
+
+body.mf .pt--3pc {
+    padding-top: -30% !important;
+}
+
+body.mf .pt--4pc {
+    padding-top: -40% !important;
+}
+
+body.mf .pt--5pc {
+    padding-top: -50% !important;
+}
+
+body.mf .pt--5pc {
+    padding-top: -50% !important;
+}
+
+body.mf .pt--6pc {
+    padding-top: -60% !important;
+}
+
+body.mf .pt--7pc {
+    padding-top: -70% !important;
+}
+
+body.mf .pt--8pc {
+    padding-top: -80% !important;
+}
+
+body.mf .pt--9pc {
+    padding-top: -90% !important;
+}
+
+body.mf .pt--10pc {
+    padding-top: -100% !important;
+}
+
+/* -------- padding bottom -------- */
+body.mf .pb-10pc {
+    padding-bottom: 100% !important;
+}
+
+body.mf .pb-9pc {
+    padding-bottom: 90% !important;
+}
+
+body.mf .pb-8pc {
+    padding-bottom: 80% !important;
+}
+
+body.mf .pb-7pc {
+    padding-bottom: 70% !important;
+}
+
+body.mf .pb-5pc {
+    padding-bottom: 50% !important;
+}
+
+body.mf .pb-4pc {
+    padding-bottom: 40% !important;
+}
+
+body.mf .pb-3pc {
+    padding-bottom: 30% !important;
+}
+
+body.mf .pb-2pc {
+    padding-bottom: 20% !important;
+}
+
+body.mf .pb-1pc {
+    padding-bottom: 10% !important;
+}
+
+body.mf .pb--0pc {
+    padding-bottom: 0% !important;
+}
+
+body.mf .pb--1pc {
+    padding-bottom: -10% !important;
+}
+
+body.mf .pb--2pc {
+    padding-bottom: -20% !important;
+}
+
+body.mf .pb--3pc {
+    padding-bottom: -30% !important;
+}
+
+body.mf .pb--4pc {
+    padding-bottom: -40% !important;
+}
+
+body.mf .pb--5pc {
+    padding-bottom: -50% !important;
+}
+
+body.mf .pb--5pc {
+    padding-bottom: -50% !important;
+}
+
+body.mf .pb--6pc {
+    padding-bottom: -60% !important;
+}
+
+body.mf .pb--7pc {
+    padding-bottom: -70% !important;
+}
+
+body.mf .pb--8pc {
+    padding-bottom: -80% !important;
+}
+
+body.mf .pb--9pc {
+    padding-bottom: -90% !important;
+}
+
+body.mf .pb--10pc {
+    padding-bottom: -100% !important;
+}
+
+/* -------- padding left -------- */
+body.mf .ps-10pc {
+    padding-left: 100% !important;
+}
+
+body.mf .ps-9pc {
+    padding-left: 90% !important;
+}
+
+body.mf .ps-8pc {
+    padding-left: 80% !important;
+}
+
+body.mf .ps-7pc {
+    padding-left: 70% !important;
+}
+
+body.mf .ps-5pc {
+    padding-left: 50% !important;
+}
+
+body.mf .ps-4pc {
+    padding-left: 40% !important;
+}
+
+body.mf .ps-3pc {
+    padding-left: 30% !important;
+}
+
+body.mf .ps-2pc {
+    padding-left: 20% !important;
+}
+
+body.mf .ps-1pc {
+    padding-left: 10% !important;
+}
+
+body.mf .ps--0pc {
+    padding-left: 0% !important;
+}
+
+body.mf .ps--1pc {
+    padding-left: -10% !important;
+}
+
+body.mf .ps--2pc {
+    padding-left: -20% !important;
+}
+
+body.mf .ps--3pc {
+    padding-left: -30% !important;
+}
+
+body.mf .ps--4pc {
+    padding-left: -40% !important;
+}
+
+body.mf .ps--5pc {
+    padding-left: -50% !important;
+}
+
+body.mf .ps--5pc {
+    padding-left: -50% !important;
+}
+
+body.mf .ps--6pc {
+    padding-left: -60% !important;
+}
+
+body.mf .ps--7pc {
+    padding-left: -70% !important;
+}
+
+body.mf .ps--8pc {
+    padding-left: -80% !important;
+}
+
+body.mf .ps--9pc {
+    padding-left: -90% !important;
+}
+
+body.mf .ps--10pc {
+    padding-left: -100% !important;
+}
+
+/* -------- padding right -------- */
+body.mf .pe-10pc {
+    padding-right: 100% !important;
+}
+
+body.mf .pe-9pc {
+    padding-right: 90% !important;
+}
+
+body.mf .pe-8pc {
+    padding-right: 80% !important;
+}
+
+body.mf .pe-7pc {
+    padding-right: 70% !important;
+}
+
+body.mf .pe-5pc {
+    padding-right: 50% !important;
+}
+
+body.mf .pe-4pc {
+    padding-right: 40% !important;
+}
+
+body.mf .pe-3pc {
+    padding-right: 30% !important;
+}
+
+body.mf .pe-2pc {
+    padding-right: 20% !important;
+}
+
+body.mf .pe-1pc {
+    padding-right: 10% !important;
+}
+
+body.mf .pe--0pc {
+    padding-right: 0% !important;
+}
+
+body.mf .pe--1pc {
+    padding-right: -10% !important;
+}
+
+body.mf .pe--2pc {
+    padding-right: -20% !important;
+}
+
+body.mf .pe--3pc {
+    padding-right: -30% !important;
+}
+
+body.mf .pe--4pc {
+    padding-right: -40% !important;
+}
+
+body.mf .pe--5pc {
+    padding-right: -50% !important;
+}
+
+body.mf .pe--5pc {
+    padding-right: -50% !important;
+}
+
+body.mf .pe--6pc {
+    padding-right: -60% !important;
+}
+
+body.mf .pe--7pc {
+    padding-right: -70% !important;
+}
+
+body.mf .pe--8pc {
+    padding-right: -80% !important;
+}
+
+body.mf .pe--9pc {
+    padding-right: -90% !important;
+}
+
+body.mf .pe--10pc {
+    padding-right: -100% !important;
+}

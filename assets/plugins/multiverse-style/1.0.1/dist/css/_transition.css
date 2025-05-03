@@ -1,0 +1,109 @@
+/* -------- transition-duration 1 -------- */
+body.mf .transition-duration-1 {
+    transition-duration: 1s;
+}
+
+/* -------- transition-duration 0.9 -------- */
+body.mf .transition-duration-09 {
+    transition-duration: 0.9s;
+}
+
+/* -------- transition-duration 0.8 -------- */
+body.mf .transition-duration-08 {
+    transition-duration: 0.8s;
+}
+
+/* -------- transition-duration 0.7 -------- */
+body.mf .transition-duration-07 {
+    transition-duration: 0.7s;
+}
+
+/* -------- transition-duration 0.6 -------- */
+body.mf .transition-duration-06 {
+    transition-duration: 0.6s;
+}
+
+/* -------- transition-duration 0.5 -------- */
+body.mf .transition-duration-05 {
+    transition-duration: 0.5s;
+}
+
+/* -------- transition-duration 0.4 -------- */
+body.mf .transition-duration-04 {
+    transition-duration: 0.4s;
+}
+
+/* -------- transition-duration 0.3 -------- */
+body.mf .transition-duration-03 {
+    transition-duration: 0.3s;
+}
+
+/* -------- transition-duration 0.2 -------- */
+body.mf .transition-duration-02 {
+    transition-duration: 0.2s;
+}
+
+/* -------- transition-duration 0.1 -------- */
+body.mf .transition-duration-01 {
+    transition-duration: 0.1s;
+}
+
+/* -------- transition-duration 0 -------- */
+body.mf .transition-duration-0 {
+    transition-duration: 0s;
+}
+
+/* -------- transition-duration 1 hover -------- */
+body.mf .transition-duration-1-hover:hover {
+    transition-duration: 1s;
+}
+
+/* -------- transition-duration 0.9 hover -------- */
+body.mf .transition-duration-09-hover:hover {
+    transition-duration: 0.9s;
+}
+
+/* -------- transition-duration 0.8 hover -------- */
+body.mf .transition-duration-08-hover:hover {
+    transition-duration: 0.8s;
+}
+
+/* -------- transition-duration 0.7 hover -------- */
+body.mf .transition-duration-07-hover:hover {
+    transition-duration: 0.7s;
+}
+
+/* -------- transition-duration 0.6 hover -------- */
+body.mf .transition-duration-06-hover:hover {
+    transition-duration: 0.6s;
+}
+
+/* -------- transition-duration 0.5 hover -------- */
+body.mf .transition-duration-05-hover:hover {
+    transition-duration: 0.5s;
+}
+
+/* -------- transition-duration 0.4 hover -------- */
+body.mf .transition-duration-04-hover:hover {
+    transition-duration: 0.4s;
+}
+
+/* -------- transition-duration 0.3 hover -------- */
+body.mf .transition-duration-03-hover:hover {
+    transition-duration: 0.3s;
+}
+
+/* -------- transition-duration 0.2 hover -------- */
+body.mf .transition-duration-02-hover:hover {
+    transition-duration: 0.2s;
+}
+
+/* -------- transition-duration 0.1 hover -------- */
+body.mf .transition-duration-01-hover:hover {
+    transition-duration: 0.1s;
+}
+
+/* -------- transition-duration 0 hover -------- */
+body.mf .transition-duration-0-hover:hover {
+    transition-duration: 0s;
+}
