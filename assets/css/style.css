@@ -473,65 +473,27 @@ h6 {
 }
 
 /*--------------------------------------------------------------
-# Responsive Media Queries
+# Sections
 --------------------------------------------------------------*/
 
-@media (min-width: 992px) {
-    #testimonials .testimonial-item p {
-        width: 80%;
-    }
+/* Sections Header
+--------------------------------*/
+
+.section-header h3 {
+    font-size: 36px;
+    color: #283d50;
+    text-align: center;
+    font-weight: 500;
+    position: relative;
 }
 
-@media (max-width: 991px) {
-    #header {
-        height: 60px;
-        padding: 10px 0;
-    }
-
-    #header .logo h1 {
-        font-size: 28px;
-        padding: 8px 0;
-    }
-
-    #intro {
-        padding: 140px 0 60px 0;
-    }
-
-    #intro .intro-img {
-        width: 80%;
-        float: none;
-        margin: 0 auto 25px auto;
-    }
-
-    #intro .intro-info {
-        width: 80%;
-        float: none;
-        margin: auto;
-        text-align: center;
-    }
-}
-
-@media (max-width: 768px) {
-    .back-to-top {
-        bottom: 15px;
-    }
-}
-
-@media (max-width: 767px) {
-    #intro .intro-info {
-        width: 100%;
-    }
-
-    #intro .intro-info h2 {
-        font-size: 34px;
-        margin-bottom: 30px;
-    }
-}
-
-@media (max-width: 574px) {
-    #intro {
-        padding: 100px 0 20px 0;
-    }
+.section-header p {
+    text-align: center;
+    margin: auto;
+    font-size: 15px;
+    padding-bottom: 60px;
+    color: #556877;
+    width: 50%;
 }
 
 /* Tokenomics Section
@@ -744,4 +706,66 @@ h6 {
 
 #comic .comic-item .comic-wrap:hover .comic-info {
     opacity: 1;
+}
+
+/*--------------------------------------------------------------
+# Responsive Media Queries
+--------------------------------------------------------------*/
+
+@media (min-width: 992px) {
+    #testimonials .testimonial-item p {
+        width: 80%;
+    }
+}
+
+@media (max-width: 991px) {
+    #header {
+        height: 60px;
+        padding: 10px 0;
+    }
+
+    #header .logo h1 {
+        font-size: 28px;
+        padding: 8px 0;
+    }
+
+    #intro {
+        padding: 140px 0 60px 0;
+    }
+
+    #intro .intro-img {
+        width: 80%;
+        float: none;
+        margin: 0 auto 25px auto;
+    }
+
+    #intro .intro-info {
+        width: 80%;
+        float: none;
+        margin: auto;
+        text-align: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .back-to-top {
+        bottom: 15px;
+    }
+}
+
+@media (max-width: 767px) {
+    #intro .intro-info {
+        width: 100%;
+    }
+
+    #intro .intro-info h2 {
+        font-size: 34px;
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 574px) {
+    #intro {
+        padding: 100px 0 20px 0;
+    }
 }
