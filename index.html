@@ -239,13 +239,13 @@
           </div>
 
           <div class="col-lg-6 background order-lg-2 order-1 wow animate__fadeInUp" data-wow-duration="1.4s">
-            <img src="assets/img/how-img.svg" class="img-fluid" alt="">
+            <img src="assets/img/how-img.svg" class="img-fluid how-img" alt="">
           </div>
         </div>
 
         <div class="row how-extra">
           <div class="col-lg-6 wow animate__fadeInUp" data-wow-duration="1.4s">
-            <img src="assets/img/how-extra-1.svg" class="img-fluid" alt="">
+            <img src="assets/img/how-extra-1.svg" class="img-fluid how-extra-1" alt="">
           </div>
           <div class="col-lg-6 wow animate__fadeInUp pt-5 pt-lg-0" data-wow-duration="1.4s">
             <h4>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h4>
@@ -262,7 +262,7 @@
 
         <div class="row how-extra">
           <div class="col-lg-6 wow animate__fadeInUp order-1 order-lg-2" data-wow-duration="1.4s">
-            <img src="assets/img/how-extra-2.svg" class="img-fluid" alt="">
+            <img src="assets/img/how-extra-2.svg" class="img-fluid how-extra-2" alt="">
           </div>
 
           <div class="col-lg-6 wow animate__fadeInUp pt-4 pt-lg-0 order-2 order-lg-1" data-wow-duration="1.4s">
@@ -438,6 +438,9 @@
     $(document).mousemove(function (e) {
       $('.intro').parallax(-30, e);
       $('.tokenomics-img').parallax(-40, e);
+      $('.how-img').parallax(-50, e);
+      $('.how-extra-1').parallax(50, e);
+      $('.how-extra-2').parallax(-10, e);
     });
   </script>
 </body>
