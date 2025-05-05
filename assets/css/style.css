@@ -708,6 +708,102 @@ h6 {
     opacity: 1;
 }
 
+/* How to Buy Section
+--------------------------------*/
+
+#how {
+    background: url("../img/how-bg.jpg") center top no-repeat fixed;
+    background-size: cover;
+    padding: 60px 0 40px 0;
+    position: relative;
+}
+
+#how::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.92);
+    z-index: 9;
+}
+
+#how .container {
+    position: relative;
+    z-index: 10;
+}
+
+#how .how-col {
+    background: #fff;
+    border-radius: 0 0 4px 4px;
+    box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
+    margin-bottom: 20px;
+}
+
+#how .how-col .img {
+    position: relative;
+}
+
+#how .how-col .img img {
+    border-radius: 4px 4px 0 0;
+}
+
+#how .how-col .icon {
+    width: 64px;
+    height: 64px;
+    padding-top: 8px;
+    text-align: center;
+    position: absolute;
+    background-color: #18d26e;
+    border-radius: 50%;
+    text-align: center;
+    border: 4px solid #fff;
+    left: calc(50% - 32px);
+    bottom: -30px;
+    transition: 0.3s;
+}
+
+#how .how-col i {
+    font-size: 36px;
+    line-height: 1;
+    color: #fff;
+    transition: 0.3s;
+}
+
+#how .how-col:hover .icon {
+    background-color: #fff;
+}
+
+#how .how-col:hover i {
+    color: #18d26e;
+}
+
+#how .how-col h2 {
+    color: #000;
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 0;
+    margin: 40px 0 12px 0;
+}
+
+#how .how-col h2 a {
+    color: #000;
+}
+
+#how .how-col h2 a:hover {
+    color: #18d26e;
+}
+
+#how .how-col p {
+    font-size: 14px;
+    line-height: 24px;
+    color: #333;
+    margin-bottom: 0;
+    padding: 0 20px 20px 20px;
+}
+
 /*--------------------------------------------------------------
 # Responsive Media Queries
 --------------------------------------------------------------*/
