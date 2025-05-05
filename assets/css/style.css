@@ -176,6 +176,16 @@ h6 {
     float: right;
 }
 
+@media only screen and (min-width: 1281px) {
+    #intro .intro-img {
+        background: url(assets/img/intro-img.svg.png) center center no-repeat transparent;
+        background-size: auto;
+        background-size: 100%;
+        display: block;
+        z-index: 14;
+    }
+}
+
 #intro .intro-info {
     width: 50%;
     float: left;
@@ -218,7 +228,7 @@ h6 {
 }
 
 #intro .intro-info .btn-get-started,
-#intro .intro-info .btn-services {
+#intro .intro-info .btn-tokenomics {
     font-family: "Montserrat", sans-serif;
     font-size: 14px;
     font-weight: 600;
@@ -243,11 +253,11 @@ h6 {
     color: #fff;
 }
 
-#intro .intro-info .btn-services {
+#intro .intro-info .btn-tokenomics {
     border: 2px solid #fff;
 }
 
-#intro .intro-info .btn-services:hover {
+#intro .intro-info .btn-tokenomics:hover {
     background: #007bff;
     border-color: #007bff;
     color: #fff;
@@ -523,4 +533,68 @@ h6 {
     #intro {
         padding: 100px 0 20px 0;
     }
+}
+
+/* Tokenomics Section
+--------------------------------*/
+
+#tokenomics {
+    padding: 60px 0 40px 0;
+    box-shadow: inset 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
+}
+
+#tokenomics .box {
+    padding: 30px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 0 10px 40px 10px;
+    background: #fff;
+    box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
+    transition: all 0.3s ease-in-out;
+    opacity: 0.8;
+}
+
+#tokenomics .box:hover {
+    -webkit-transform: translateY(-5px);
+    transform: translateY(-5px);
+}
+
+#tokenomics .icon {
+    position: absolute;
+    left: -10px;
+    top: calc(50% - 32px);
+}
+
+#tokenomics .icon i {
+    font-size: 64px;
+    line-height: 1;
+    transition: 0.5s;
+}
+
+#tokenomics .title {
+    margin-left: 40px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+#tokenomics .title a {
+    color: #111;
+}
+
+#tokenomics .box:hover .title a {
+    color: #007bff;
+}
+
+#tokenomics .description {
+    font-size: 14px;
+    margin-left: 40px;
+    line-height: 24px;
+    margin-bottom: 0;
+}
+
+#tokenomics .tokenomics-img {
+    width: auto;
+    height: auto;
 }
