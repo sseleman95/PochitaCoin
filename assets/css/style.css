@@ -178,7 +178,6 @@ h6 {
 
 @media only screen and (min-width: 1281px) {
     #intro .intro-img {
-        background: url(assets/img/intro-img.svg.png) center center no-repeat transparent;
         background-size: auto;
         background-size: 100%;
         display: block;
