@@ -1073,6 +1073,12 @@ h6 {
     #testimonials .testimonial-item p {
         width: 80%;
     }
+
+    #footer .footer-top .social-links a {
+        font-size: 22px;
+        width: 36px;
+        height: 36px;
+    }
 }
 
 @media (max-width: 991px) {
