@@ -1265,15 +1265,95 @@ h6 {
     font-weight: bold;
     text-decoration: none;
     color: #333;
+    opacity: 0.3;
+    border: 0;
 }
 
 .get-started .close:hover {
-    color: #06D85F;
+    background-color: #fff;
+    opacity: 1;
+}
+
+.get-started .close:before,
+.get-started .close:after {
+    position: absolute;
+    left: 15px;
+    height: 33px;
+    width: 2px;
 }
 
 .get-started .content {
     max-height: 30%;
     overflow: auto;
+}
+
+/* Cookies
+--------------------------------*/
+
+.cookies {
+    width: 100%;
+    max-width: 24rem;
+    padding: calc(.25rem * 6);
+    margin-inline: auto;
+    bottom: 0;
+    inset-inline-end: 0;
+    position: fixed;
+    z-index: 1000;
+}
+
+.cookies .card {
+    padding: calc(.25rem * 4);
+    background-color: #fff;
+    border-color: oklch(.928 .006 264.531);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: .75rem;
+}
+
+.cookies .card .body {
+    column-gap: calc(.25rem * 4);
+    display: flex;
+}
+
+.cookies .card svg {
+    flex-shrink: 0;
+    width: calc(.25rem * 8);
+    height: auto;
+}
+
+.cookies .card .grow {
+    flex-grow: 1;
+    height: 40px;
+}
+
+.cookies .card p {
+    font-size: .875rem;
+    line-height: calc(1.25 / .875);
+}
+
+.cookies .card a {
+    text-decoration-thickness: 2px;
+}
+
+.cookies .card .close {
+    width: 32px;
+    height: 32px;
+    opacity: 0.3;
+    border: 0;
+    background-color: #fff;
+}
+
+.cookies .card .close:hover {
+    opacity: 1;
+}
+
+.cookies .card .close:before,
+.cookies .card .close:after {
+    position: absolute;
+    left: 15px;
+    height: 33px;
+    width: 2px;
+    background-color: #333;
 }
 
 /*--------------------------------------------------------------
