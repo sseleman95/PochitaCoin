@@ -1,0 +1,75 @@
+/* Call To Action Button
+--------------------------------*/
+
+.cus-btn {
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 150%;
+    letter-spacing: 0.32px;
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.5s ease;
+    padding: 8px 32px 8px 8px;
+    background-color: #FA9A41 !important;
+    border-radius: 30px;
+    font-family: inherit;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    transition: color 0.5s;
+    z-index: 1;
+    color: #F8F8FF !important;
+    border: 2px solid #fff !important;
+}
+
+.cus-btn:before {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 100%;
+    transition: all 0.7s;
+    z-index: -1;
+    background: #16191A !important;
+    height: 200px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.cta-btn:hover {
+    background: #7DF9FF !important;
+    border: 2px solid #7DF9FF !important;
+}
+
+.cus-btn:hover:before {
+    top: -30px;
+    left: -30px;
+}
+
+.cus-btn:active:before {
+    background: #FA9A41 !important;
+    transition: background 0s;
+}
+
+.back-to-top {
+    gap: 8px;
+    transition: all 0.5s ease;
+    background-color: #FA9A41 !important;
+}
+
+.back-to-top:hover {
+    background: #7DF9FF !important;
+    border: 2px solid #7DF9FF !important;
+}
+
+.back-to-top:hover:before {
+    top: -30px;
+    left: -30px;
+}
+
+.back-to-top:active:before {
+    background: #FA9A41 !important;
+    transition: background 0s;
+}
